@@ -51,6 +51,10 @@ body {
   margin: 0.5rem;
   text-shadow: 0.1rem 0.1rem rgb(0, 0, 0, 50%);
 }
+.heading{
+    text-align: center;
+    width: 12rem;
+}
 .btn:hover {
   background: rgb(241, 8, 121);
 }
