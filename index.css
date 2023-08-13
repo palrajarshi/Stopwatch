@@ -48,7 +48,7 @@ body {
   background-color: #9938fc;
   color: white;
   padding: 0.5rem;
-  margin-right: 0.8rem;
+  margin: 0.5rem;
   text-shadow: 0.1rem 0.1rem rgb(0, 0, 0, 50%);
 }
 .btn:hover {
